@@ -69,7 +69,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "relative" },{lazyLoad: true}, {prettyLinks: true}),
+      Plugin.CrawlLinks({ markdownLinkResolution: "relative", lazyLoad: true, prettyLinks: true}),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
@@ -82,7 +82,6 @@ const config: QuartzConfig = {
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
