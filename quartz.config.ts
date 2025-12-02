@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "UnifrakturMaguntia",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -69,7 +69,7 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "relative" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "relative" },{lazyLoad: true}, {prettyLinks: true}),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
