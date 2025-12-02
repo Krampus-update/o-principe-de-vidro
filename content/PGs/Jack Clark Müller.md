@@ -1,8 +1,10 @@
 ---
-{"publish":true,"created":"2025-11-25T22:52:06.081-03:00","modified":"2025-12-01T20:33:04.004-03:00","tags":["Jogador","Vivo","Vampiro"],"cssclasses":""}
+{"publish":true,"created":"2025-11-25T22:52:06.081-03:00","modified":"2025-12-01T21:40:04.422-03:00","tags":["Jogador","Vivo","Vampiro"],"cssclasses":""}
 ---
 
 ![[PGs/Assets/Pasted image 20251126190430.png|center|200]]
+>[!recite]- Ficha
+![[PGs/Jack_Clark.pdf]]
 
 > [!recite] Relações
 >
