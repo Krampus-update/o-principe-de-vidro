@@ -6,7 +6,7 @@ on:
       - v4
  
 env:
-  THEME_NAME: its-theme
+  THEME_NAME: its-theme.its-dark
  
 permissions:
   contents: read
