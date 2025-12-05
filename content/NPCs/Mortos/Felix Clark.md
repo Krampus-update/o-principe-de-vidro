@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-01T19:30:23.263-03:00","modified":"2025-12-01T20:34:03.829-03:00","tags":["Morto","NPC","Humano"],"cssclasses":""}
+{"publish":true,"created":"2025-12-01T19:30:23.263-03:00","modified":"2025-12-05T00:20:30.167-03:00","tags":["Morto","NPC","Humano"],"cssclasses":""}
 ---
 
 
